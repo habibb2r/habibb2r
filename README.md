@@ -5,8 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibb2r&label=Profile%20views&color=0e75b6&style=flat" alt="habibb2r" /> </p>
 
-- 🌱 I’m currently learning **Redux, Python**
-- 📫 How to reach me ****
+- 🌱 I’m currently learning **Redux, Python*
+- 📫 How to reach me
+  [![Linkedin](https://img.shields.io/badge/-habibb2r-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/habibb2r)
+  Whatsapp : +8801864663549
+  Email : habibhk127@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
