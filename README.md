@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm HABIB</h1>
-<h3 align="left">A Passionate Front-End Web developer from Bangladesh. Skills in MERN stack,Web design, Problem Solving. Spending most of time with coding and relevant to those topics.</h3>
+<h1 align="center">Hi, there 👋, I'm HABIB</h1>
+<h4 align="left">A Passionate Front-End Web developer from Bangladesh. Skills in MERN stack,Web design, Problem Solving. Spending most of times with coding and relevant to those topics.</h4>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
