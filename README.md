@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm HABIB</h1>
-<h3 align="center">A Passionate Front-End MERN stack Web developer from Bangladesh</h3>
+<h3 align="left">A Passionate Front-End Web developer from Bangladesh. Skills in MERN stack,Web design, Problem Solving. Spending most of time with coding and relevant to those topics.</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibb2r&label=Profile%20views&color=0e75b6&style=flat" alt="habibb2r" /> </p>
 
-- 🌱 I’m currently learning **Python, MERN**
-
-- 📫 How to reach me **facebook.com/rocking.habib**
+- 🌱 I’m currently learning **Redux, Python**
+- 📫 How to reach me ****
 
 
 <h3 align="left">Connect with me:</h3>
