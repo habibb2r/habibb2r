@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Redux, Python*
 - 📫 How to reach me
-  [![Linkedin](https://img.shields.io/badge/-habibb2r-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/habibb2r)
+-[![Linkedin](https://img.shields.io/badge/-habibb2r-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/habibb2r)
   [![Gmail](https://img.shields.io/badge/-habibhk127-c14438?style=flat&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=habibhk127@gmail.com)
   Whatsapp : +8801864663549
   
