@@ -1,9 +1,9 @@
 
-# Hi, I'm Habib 😊
+# Hey, I'm Habib 😊
 Front-end web developer from Bangladesh with a lot of passion. Skills in problem-solving and MERN stack technology. spending the majority of my time on coding and things related to those topics.<br>
 
 
-## 🌐 Socials:
+## 🌐 Where to find me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rocking.habib) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habibb2r) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/habibb2r) 
 
 # 💻 Tech Stack:
