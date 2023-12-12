@@ -16,11 +16,16 @@ Front-end web developer from Bangladesh with a lot of passion. Skills in problem
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=habibb2r&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=habibb2r&theme=merko&hide_border=true)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=habibb2r&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center" >
+<div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibb2r&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibb2r&theme=github_dark" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibb2r&theme=github_dark&utcOffset=8" width="32.5%">
+ 
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=habibb2r&icon=3&color=3)](https://visitcount.itsvg.in)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibb2r&theme=github_dark" width="98%">
+</div>
 
 
 
