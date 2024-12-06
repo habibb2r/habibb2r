@@ -19,10 +19,15 @@ Front-end web developer from Bangladesh with a lot of passion. Skills in problem
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibb2r&theme=github_dark&utcOffset=8" width="32.5%">
  
 </div>
-<img src="https://streak-stats.demolab.com?user=habibb2r&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" width="48%">
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=habibb2r)](https://github.com/anuraghazra/github-readme-stats)
+
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibb2r&theme=github_dark" width="98%">
 
+<img src="https://streak-stats.demolab.com?user=habibb2r&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" width="48%">
+<div>
+ <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=marketPlace&theme=chartreuse-dark" width="32%">
+<img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=Advance-Backend-P1&theme=chartreuse-dark" width="32%">
+<img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=SPEAKIFYR&theme=chartreuse-dark" width="32%">
+</div>
 
 </div>
 
