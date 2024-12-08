@@ -24,9 +24,9 @@ Front-end web developer from Bangladesh with a lot of passion. Skills in problem
 
 <img src="https://streak-stats.demolab.com?user=habibb2r&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" width="48%">
 <div>
- <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=marketPlace&theme=chartreuse-dark" width="32%">
-<img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=Advance-Backend-P1&theme=chartreuse-dark" width="32%">
-<img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=SPEAKIFYR&theme=chartreuse-dark" width="32%">
+ <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=marketPlace&description_lines_count=1&theme=chartreuse-dark" width="32%">
+<img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=Advance-Backend-P1&description_lines_count=1&theme=chartreuse-dark" width="32%">
+<img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=SPEAKIFYR&description_lines_count=1&theme=chartreuse-dark" width="32%">
 </div>
 
 </div>
