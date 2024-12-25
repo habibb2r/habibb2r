@@ -1,3 +1,4 @@
+![foo](/cover.webp "HABIBB2R")
 # Hey, I'm Habib 
 Front-end web developer from Bangladesh with a lot of passion. Skills in problem-solving and MERN stack technology. spending the majority of my time on coding and things related to those topics.<br>
 
