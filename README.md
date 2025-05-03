@@ -2,8 +2,8 @@
 # Hey, I'm Habib 
 Front-end web developer from Bangladesh with a lot of passion. Skills in problem-solving and MERN stack technology. spending the majority of my time on coding and things related to those topics.<br>
 
-- 🛠️ I’m currently working on **Full Stack Web Development**
-- ⚙️ I’m currently learning **NoSQL Backend (Mastering in Typescript, Mongoose, Express)**
+- 🛠️ I’m currently working on **Advance Tech like Prisma, Next.js 15+, PGSQL**
+- ⚙️ I’m currently learning **NEXT.JS**
 - 🖥️  See my portfolio at [Portfolio](https://habibb2r.site)
 - ✉️  You can contact me at [habibhk127@gmail.com](mailto:habibhk127@gmail.com) 
 
