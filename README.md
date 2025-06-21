@@ -23,7 +23,7 @@ Front-end web developer from Bangladesh with a lot of passion. Skills in problem
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibb2r&theme=github_dark" width="98%">
 
-<img src="https://github-readme-streak-stats-theta-neon.vercel.app?user=habibb2r&date_format=M%20j%5B%2C%20Y%5D" width="48%">
+<img src="https://github-readme-streak-stats-theta-neon.vercel.app?user=habibb2r&theme=chartreuse-dark&date_format=M%20j%5B%2C%20Y%5D" width="48%">
 <div>
  <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=marketPlace&description_lines_count=1&show_owner=true&theme=chartreuse-dark" width="32%">
 <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=Advance-Backend-P1&description_lines_count=1&show_owner=true&theme=chartreuse-dark" width="32%">
