@@ -35,25 +35,46 @@
 
 ---
 
-# 📊 GitHub Stats  
-<div align="center" >
-  
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibb2r&theme=github_dark" width="48%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibb2r&theme=github_dark" width="48%">
+# 📊 GitHub Stats
 
+<div align="center">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibb2r&theme=github_dark" width="98%">
+<table>
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibb2r&theme=github_dark" alt="Habib GitHub Stats" height="180">
+    </td>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibb2r&theme=github_dark" alt="Top Languages" height="180">
+    </td>
+  </tr>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibb2r&theme=github_dark&utcOffset=8" width="48%">
-<img src="https://github-readme-streak-stats-theta-neon.vercel.app?user=habibb2r&theme=git-dark&fire=DDFE10&ring=EB9789&currStreakLabel=FFFF06&stroke=11EB27&background=45%2C000000%2C500000" width="48%" height="100%">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibb2r&theme=github_dark" alt="Profile Details" width="100%">
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibb2r&theme=github_dark&utcOffset=8" alt="Productive Time" height="180">
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats-theta-neon.vercel.app?user=habibb2r&theme=git-dark&fire=DDFE10&ring=EB9789&currStreakLabel=FFFF06&stroke=11EB27&background=45%2C000000%2C500000" alt="GitHub Streak" height="180">
+    </td>
+  </tr>
+</table>
+
+<!-- Pinned Projects -->
 <div>
- <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=marketPlace&description_lines_count=1&show_owner=true&theme=chartreuse-dark" width="32%">
- <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=Advance-Backend-P1&description_lines_count=1&show_owner=true&theme=chartreuse-dark" width="32%">
- <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=SPEAKIFYR&description_lines_count=1&show_owner=true&theme=chartreuse-dark" width="32%">
+  <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=marketPlace&description_lines_count=1&show_owner=true&theme=chartreuse-dark" width="32%">
+  <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=Advance-Backend-P1&description_lines_count=1&show_owner=true&theme=chartreuse-dark" width="32%">
+  <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=SPEAKIFYR&description_lines_count=1&show_owner=true&theme=chartreuse-dark" width="32%">
 </div>
 
-</div>  
+</div>
+
+
 
 ---
 
