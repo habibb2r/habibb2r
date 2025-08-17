@@ -38,13 +38,14 @@
 # 📊 GitHub Stats  
 <div align="center" >
   
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibb2r&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibb2r&theme=github_dark" width="32.5%">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibb2r&theme=github_dark&utcOffset=8" width="32.5%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibb2r&theme=github_dark" width="48%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibb2r&theme=github_dark" width="48%">
+
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibb2r&theme=github_dark" width="98%">
 
-<img src="https://github-readme-streak-stats-theta-neon.vercel.app?user=habibb2r&theme=git-dark&fire=DDFE10&ring=EB9789&currStreakLabel=FFFF06&stroke=11EB27&background=45%2C000000%2C500000" width="48%">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibb2r&theme=github_dark&utcOffset=8" width="48%">
+<img src="https://github-readme-streak-stats-theta-neon.vercel.app?user=habibb2r&theme=git-dark&fire=DDFE10&ring=EB9789&currStreakLabel=FFFF06&stroke=11EB27&background=45%2C000000%2C500000" width="48%" height="100%">
 
 <div>
  <img src="https://github-readme-stats-habibb2r.vercel.app/api/pin?username=habibb2r&repo=marketPlace&description_lines_count=1&show_owner=true&theme=chartreuse-dark" width="32%">
