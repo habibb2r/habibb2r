@@ -2,18 +2,30 @@
 
 # 👋 Hey, I'm Habib  
 
-💻 **Full Stack Developer** | Passionate about engineering scalable web apps, solving complex problems, and exploring the intersection of **Software Engineering, Development, and Scalability**.  
+💻 **Full Stack Developer | AI-Driven Software Engineer | Problem Solver**
+
+I design and engineer **scalable, high-performance applications** — merging modern full-stack development with intelligence-driven architecture. My sweet spot sits at the intersection of **Software Engineering, AI, and business-grade scalability** — building systems that don’t just run, but scale with purpose.
 
 ---
 
-## 🙋‍♂️ About Me  
-- 🌍 From **Bangladesh**, driven by a passion for technology and innovation  
-- 🚀 Skilled in **MERN, Next.js, Prisma, NestJS, PostgreSQL, TypeScript, Redux, Express.js, and Mongoose**  
-- 📊 **AI/ML Researcher** with published papers in **Hate Speech Detection, and Depression Detection**  
-- 🔐 "Expanding my journey into AI-based software engineering for the next phase of growth."
-- 🎯 Advocate of **clean code, performance-first development, and building impactful products**  
+## 🙋‍♂️ Snapshot
+- 🌍 Based in **Bangladesh**, driven by innovation and engineering excellence  
+- 🚀 Hands-on with **MERN, Next.js, Prisma, NestJS, PostgreSQL, TypeScript, Redux, Express.js & Mongoose**  
+- 🤖 **AI/ML Researcher** — published in **Hate Speech Detection & Depression Detection**  
+- 🔐 Expanding into **AI-powered software engineering at scale**  
+- 🎯 Relentless advocate for **clean architecture, performance optimization & real-world impact**
 
 ---
+
+## 🔥 What I’m Working On Right Now
+- 🛠 Building production-grade systems using **Next.js 15+, Prisma, PostgreSQL & TypeScript**  
+- ⚙️ Deep-diving **App Router & modern full-stack patterns**  
+- 📊 Advancing NLP-focused research in **Deep Learning & AI**  
+- 🖥 Portfolio: https://habibb2r.pages.dev  
+- ✉️ Email: habibhk127@gmail.com  
+
+---
+
 
 ## 💼 Work Experience
 
@@ -30,15 +42,7 @@
   - 🚀 **4 different types of enterprise applications**
 - 🔧 Drove innovation in front-end architecture and implementation strategies
 
----
 
-- 🛠️ Currently working on **Next.js 15+, Prisma, PostgreSQL, and TypeScript**  
-- ⚙️ Deep-diving into **Next.js App Router & advanced full-stack patterns**  
-- 📊 Published research in **NLP & Deep Learning** (Hate Speech Detection, Depression Detection)  
-- 🖥️ See my portfolio at [Portfolio](https://habibb2r.site)  
-- ✉️ Reach me at [habibhk127@gmail.com](mailto:habibhk127@gmail.com)  
-
----
 
 ## 🌐 Where to find me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rocking.habib) 
@@ -47,8 +51,45 @@
 
 ---
 
-# 💻 Tech Stack  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)  ![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+# 💻 Tech Stack
+
+<div align="left">
+
+### 🎨 Frontend Development
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend Development
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### 🗄️ Database & ORM
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white) 
+![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### 🤖 AI/ML & Research
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🛠️ Tools & Technologies
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
 
 ---
 
