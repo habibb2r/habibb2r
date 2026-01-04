@@ -15,6 +15,23 @@
 
 ---
 
+## 💼 Work Experience
+
+### **Full Stack Developer** | Softvence Innovation  
+📍 **Onsite** - Dhaka, Bangladesh  
+📅 **June 2025 - Present**  
+
+**Key Achievements:**
+- 👥 Collaborated with a team of **40+ professionals** in an agile development environment
+- 🎯 Served as **Core Strategist for the Front-end team**, leading architectural decisions and best practices
+- ✅ Successfully completed and delivered:
+  - 📍 **Location-based HRM System** application
+  - 🛒 **E-commerce platform**
+  - 🚀 **4 different types of enterprise applications**
+- 🔧 Drove innovation in front-end architecture and implementation strategies
+
+---
+
 - 🛠️ Currently working on **Next.js 15+, Prisma, PostgreSQL, and TypeScript**  
 - ⚙️ Deep-diving into **Next.js App Router & advanced full-stack patterns**  
 - 📊 Published research in **NLP & Deep Learning** (Hate Speech Detection, Depression Detection)  
