@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Habib  
 
-💻 **Full Stack Developer | AI-Driven Software Engineer | Problem Solver**
+💻 **AI-Driven Software Engineer | Full-Stack Developer**
 
 I design and engineer **scalable, high-performance applications** — merging modern full-stack development with intelligence-driven architecture. My sweet spot sits at the intersection of **Software Engineering, AI, and business-grade scalability** — building systems that don’t just run, but scale with purpose.
 
@@ -18,6 +18,7 @@ I design and engineer **scalable, high-performance applications** — merging mo
 ---
 
 ## 🔥 What I’m Working On Right Now
+- 🧪 Learning **A/B testing** and exploring **A/B testing tools**  
 - 🛠 Building production-grade systems using **Next.js 15+, Prisma, PostgreSQL & TypeScript**  
 - ⚙️ Deep-diving **App Router & modern full-stack patterns**  
 - 📊 Advancing NLP-focused research in **Deep Learning & AI**  
@@ -29,9 +30,20 @@ I design and engineer **scalable, high-performance applications** — merging mo
 
 ## 💼 Work Experience
 
-### **Full Stack Developer** | Softvence Innovation  
+### **Software Engineer** | EchoLogyx Ltd  
+📍 **Onsite** - Chittagong, Bangladesh  
+📅 **January 2026 - Present**  
+
+**Key Responsibilities:**
+- 🚀 Building scalable and high-performance software solutions
+- 💡 Working with modern tech stack and agile methodologies
+- 🔧 Contributing to enterprise-level software development projects
+
+---
+
+### **Full Stack Developer** | Softvence Agency  
 📍 **Onsite** - Dhaka, Bangladesh  
-📅 **June 2025 - Present**  
+📅 **June 2025 - January 2026**  
 
 **Key Achievements:**
 - 👥 Collaborated with a team of **40+ professionals** in an agile development environment
