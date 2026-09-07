@@ -12,13 +12,15 @@ I design and engineer **scalable, high-performance applications** — merging mo
 - 🌍 Based in **Bangladesh**, driven by innovation and engineering excellence  
 - 🚀 Hands-on with **MERN, Next.js, Prisma, NestJS, PostgreSQL, TypeScript, Redux, Express.js & Mongoose**  
 - 🤖 **AI/ML Researcher** — published in **Hate Speech Detection & Depression Detection**  
+- 🧪 Experienced in **A/B Testing & Experimentation** using tools such as **Convert, VWO, Optimizely, and Visual Website Optimizer**
 - 🔐 Expanding into **AI-powered software engineering at scale**  
 - 🎯 Relentless advocate for **clean architecture, performance optimization & real-world impact**
 
 ---
 
 ## 🔥 What I’m Working On Right Now
-- 🧪 Learning **A/B testing** and exploring **A/B testing tools**  
+- 🧪 Working with **A/B testing, experimentation, and optimization platforms** including **Convert, VWO, Optimizely, and Visual Website Optimizer**
+- 📊 Applying **A/B testing methodologies**, experiment setup, analysis, and conversion optimization
 - 🛠 Building production-grade systems using **Next.js 15+, Prisma, PostgreSQL & TypeScript**  
 - ⚙️ Deep-diving **App Router & modern full-stack patterns**  
 - 📊 Advancing NLP-focused research in **Deep Learning & AI**  
@@ -36,6 +38,8 @@ I design and engineer **scalable, high-performance applications** — merging mo
 
 **Key Responsibilities:**
 - 🚀 Building scalable and high-performance software solutions
+- 🧪 Working with **A/B testing and experimentation platforms**, including **Convert, VWO, Optimizely, and Visual Website Optimizer**
+- 📊 Designing, implementing, monitoring, and analyzing **A/B tests and experimentation workflows**
 - 💡 Working with modern tech stack and agile methodologies
 - 🔧 Contributing to enterprise-level software development projects
 
@@ -87,6 +91,11 @@ I design and engineer **scalable, high-performance applications** — merging mo
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=prisma&logoColor=white) 
 ![Mongoose](https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+
+### 🧪 A/B Testing & Experimentation
+![Convert](https://img.shields.io/badge/Convert-A%2FB%20Testing-blue?style=for-the-badge)
+![VWO](https://img.shields.io/badge/VWO-A%2FB%20Testing-orange?style=for-the-badge)
+![Optimizely](https://img.shields.io/badge/Optimizely-Experimentation-purple?style=for-the-badge)
 
 ### 🤖 AI/ML & Research
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -144,8 +153,8 @@ I design and engineer **scalable, high-performance applications** — merging mo
 
 </div>
 
-
-
 ---
 
-
+<p align="center">
+  <i>Last updated: September 7, 2026</i>
+</p>
