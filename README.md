@@ -2,7 +2,7 @@
 
 # 👋 Hey, I'm Habib  
 
-💻 **AI-Driven Software Engineer | Full-Stack Developer**
+💻 **AI-Driven Software Engineer | Full-Stack Engineer**
 
 I design and engineer **scalable, high-performance applications** — merging modern full-stack development with intelligence-driven architecture. My sweet spot sits at the intersection of **Software Engineering, AI, and business-grade scalability** — building systems that don’t just run, but scale with purpose.
 
