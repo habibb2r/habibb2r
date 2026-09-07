@@ -119,29 +119,58 @@ I design and engineer **scalable, high-performance applications** — merging mo
 <div align="center">
 
 <table>
+<tr>
+  <td align="center" width="33.33%">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibb2r&theme=aura_dark&animation=draw" 
+      alt="Habib GitHub Stats"
+      width="300"
+      height="180"
+    />
+  </td>
+
+  <td align="center" width="33.33%">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibb2r&theme=aura_dark&animation=draw" 
+      alt="Top Languages"
+      width="300"
+      height="180"
+    />
+  </td>
+
+  <td align="center" width="33.33%">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=habibb2r&theme=aura_dark&animation=draw" 
+      alt="Top Commits"
+      width="300"
+      height="180"
+    />
+  </td>
+</tr>
+
   <tr>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=habibb2r&theme=github_dark" alt="Habib GitHub Stats" height="180">
-    </td>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=habibb2r&theme=github_dark" alt="Top Languages" height="180">
+    <td colspan="3" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibb2r&theme=aura_dark&animation=draw&name=Md+Habib+Ullah+Sajib" alt="Profile Details" width="100%">
     </td>
   </tr>
 
   <tr>
-    <td colspan="2" align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=habibb2r&theme=github_dark" alt="Profile Details" width="100%">
-    </td>
-  </tr>
+  <td align="center" width="40%">
+    <img 
+      src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibb2r&theme=aura_dark&animation=draw&utcOffset=0" 
+      alt="Productive Time" 
+      width="100%"
+    />
+  </td>
 
-  <tr>
-    <td align="center">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=habibb2r&theme=github_dark&utcOffset=8" alt="Productive Time" height="180">
-    </td>
-    <td align="center">
-      <img src="https://github-readme-streak-stats-theta-neon.vercel.app?user=habibb2r&theme=git-dark&fire=DDFE10&ring=EB9789&currStreakLabel=FFFF06&stroke=11EB27&background=45%2C000000%2C500000" alt="GitHub Streak" height="180">
-    </td>
-  </tr>
+  <td align="center" width="60%" colspan="2">
+    <img 
+      src="https://github-readme-streak-stats-theta-neon.vercel.app?user=habibb2r&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D&card_height=180" 
+      alt="GitHub Streak" 
+      width="100%"
+    />
+  </td>
+</tr>
 </table>
 
 <!-- Pinned Projects -->
